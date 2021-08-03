@@ -1,10 +1,10 @@
-title: Anonymous A
-author: Alen Antony
+title: Alen Antony
+#author: Alen Antony
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Alen Here!!! Check out my projects and do contribute :) 
+  Alen Here!!! This site show cases my projects so check them out and contribute :) 
 theme: jekyll-theme-slate
 # social links
 #twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  Anonymous-AAA
-show_excerpts: true # set to false to remove excerpts on the homepage
+#github_username:  Anonymous-AAA
+#show_excerpts: true # set to false to remove excerpts on the homepage
