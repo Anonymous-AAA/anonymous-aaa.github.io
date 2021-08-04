@@ -2,7 +2,7 @@ title: Anonymous A
 #author: Alen Antony
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Alen Here!!! This site show cases my projects so check them out and contribute :) 
+  Alen Here!!! This site showcases my projects so check them out and contribute :) 
 theme: jekyll-theme-slate
 show_downloads: false
 github:
