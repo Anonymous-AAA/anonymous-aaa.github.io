@@ -37,8 +37,9 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {{ content }}
+        <button id="demo" onclick="myFunction()">Click me if you are bored....</button>
       </section>
-      <button id="demo" onclick="myFunction()">Click me if you are bored....</button>
+      
       <script>
 function myFunction() {
   document.getElementById("demo").innerHTML = "YOU CLICKED ME!";
